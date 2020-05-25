@@ -1,0 +1,9 @@
+C:\Users\amost\OneDrive\Рабочий стол\KursachClean\bin\Release\Kursach.exe.config
+C:\Users\amost\OneDrive\Рабочий стол\KursachClean\bin\Release\Kursach.exe
+C:\Users\amost\OneDrive\Рабочий стол\KursachClean\bin\Release\Kursach.pdb
+C:\Users\amost\OneDrive\Рабочий стол\KursachClean\obj\Release\Kursach.Firewatch.resources
+C:\Users\amost\OneDrive\Рабочий стол\KursachClean\obj\Release\Kursach.Properties.Resources.resources
+C:\Users\amost\OneDrive\Рабочий стол\KursachClean\obj\Release\Firewatch.csproj.GenerateResource.cache
+C:\Users\amost\OneDrive\Рабочий стол\KursachClean\obj\Release\Firewatch.csproj.CoreCompileInputs.cache
+C:\Users\amost\OneDrive\Рабочий стол\KursachClean\obj\Release\Kursach.exe
+C:\Users\amost\OneDrive\Рабочий стол\KursachClean\obj\Release\Kursach.pdb
